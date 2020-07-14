@@ -1,2 +1,2 @@
-# Chenger1.github.io
-Vladislav Marahovskiy. Software Developer. Pythonist.
+# Vladislav Marahovskiy. Software Developer. Pythonist.
+https://chenger1.github.io
